@@ -15,5 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Outsidet's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinyi97&show_icons=true&count_private=true&hide=prs&theme=default)
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pinyi97&&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+   <img src="https://readme-typing-svg.herokuapp.com/?color=165DFF&size=21&center=true&lines=console.log(%22Hello%2C%20World!%22)" alt="typing-svg">
+</p>
+
+
+<div align="center">
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=pinyi97" />  
+<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinyi97&layout=compact&langs_count=8" />
+</div>
+
+<div align="center">
+<span>&emsp;&emsp;</span>
+<span>&emsp;&emsp;</span>
+</div>
